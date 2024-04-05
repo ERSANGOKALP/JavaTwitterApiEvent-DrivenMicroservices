@@ -1,0 +1,10 @@
+2024-02-18 13:21:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 21.0.1 with PID 8904 (C:\Users\HP\Desktop\Projects\microservices.demo\twitter-to-kafka-service\target\classes started by HP in C:\Users\HP\Desktop\Projects\microservices.demo)
+2024-02-18 13:21:34 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-02-18 13:21:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 3.939 seconds (process running for 7.226)
+2024-02-18 13:21:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App start...
+2024-02-18 13:21:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [-Java -Microservices -Spring -Kafka -Elasticsearch]
+2024-02-18 13:21:36 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2024-02-18 13:21:36 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [-Java -Microservices -Spring -Kafka -Elasticsearch]
+2024-02-18 13:21:37 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sit Lorem pulvinar ipsum pulvinar posuere dolor posuere -Java -Microservices -Spring -Kafka -Elasticsearch ipsum Maecenas Maecenas consectetuer ultricies Lorem
+2024-02-18 13:21:47 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text pulvinar lectus consectetuer adipiscing adipiscing purus -Java -Microservices -Spring -Kafka -Elasticsearch dolor pulvinar sit posuere malesuada
+2024-02-18 13:21:57 [pool-2-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text adipiscing congue porttitor malesuada massa consectetuer -Java -Microservices -Spring -Kafka -Elasticsearch magna posuere pulvinar congue
